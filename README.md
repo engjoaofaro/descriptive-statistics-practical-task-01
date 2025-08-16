@@ -1,16 +1,16 @@
-# Atividade Prática 1 - Estatística Descritiva e Pré-processamento de Dados
+# 📊 Atividade Prática 1 - Estatística Descritiva e Pré-processamento de Dados
 
-## Sobre o Projeto
+## 📝 Sobre o Projeto
 
 Este projeto faz parte da **Atividade Prática 1** do curso de **Pós-Graduação em Ciência de Dados e Machine Learning da PUC Campinas**. O objetivo é aplicar conceitos de estatística descritiva e pré-processamento de dados para explorar e analisar variáveis de uma base de dados externa.
 
 **Aluno:** João Paulo Bremgartner Faro
 
-## Dataset
+## 🗃️ Dataset
 
 O projeto utiliza uma base de dados externa que contém informações sobre clientes de um banco e seu risco de crédito. Esta base permite explorar diferentes aspectos do perfil dos clientes e suas características financeiras.
 
-## Objetivo
+## 🎯 Objetivo
 
 Aplicar conceitos de estatística descritiva e pré-processamento de dados para:
 - Explorar as variáveis presentes no dataset
@@ -18,7 +18,7 @@ Aplicar conceitos de estatística descritiva e pré-processamento de dados para:
 - Identificar padrões e relações entre variáveis
 - Praticar técnicas de limpeza e preparação de dados
 
-## Perguntas de Pesquisa
+## ❓ Perguntas de Pesquisa
 
 O projeto busca responder às seguintes perguntas através de análise estatística descritiva:
 
@@ -33,19 +33,19 @@ O projeto busca responder às seguintes perguntas através de análise estatíst
 9. **A idade média difere entre clientes classificados como `good` e `bad` risco?**
 10. **Como se relacionam `Job` e `Housing`? Qual categoria de moradia é mais comum em cada tipo de trabalho?**
 
-## Estrutura do Projeto
+## 📁 Estrutura do Projeto
 
 - `Atividade Prática 1.ipynb` - Notebook principal com as análises e respostas às perguntas de pesquisa
 - `README.md` - Este arquivo com informações sobre o projeto
 
-## Tecnologias Utilizadas
+## 🛠️ Tecnologias Utilizadas
 
 - Python 3.13.6
 - Jupyter Notebook
 - Bibliotecas de análise de dados (pandas, numpy, matplotlib, seaborn, etc.)
 - Ambiente virtual (virtualenv)
 
-## Como Executar
+## 🚀 Como Executar
 
 1. Clone o repositório
 2. Ative o ambiente virtual
@@ -54,6 +54,6 @@ O projeto busca responder às seguintes perguntas através de análise estatíst
 
 ---
 
-**Instituição:** PUC Campinas  
-**Curso:** Pós-Graduação em Ciência de Dados e Machine Learning  
-**Disciplina:** Estatística Descritiva e Pré-processamento de Dados
+**🎓 Instituição:** PUC Campinas  
+**📚 Curso:** Pós-Graduação em Ciência de Dados e Machine Learning  
+**📖 Disciplina:** Estatística Descritiva e Pré-processamento de Dados
