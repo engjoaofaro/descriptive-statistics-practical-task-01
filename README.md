@@ -35,7 +35,7 @@ O projeto busca responder às seguintes perguntas através de análise estatíst
 
 ## 📁 Estrutura do Projeto
 
-- `Atividade Prática 1.ipynb` - Notebook principal com as análises e respostas às perguntas de pesquisa
+- `practical_task_01.ipynb` - Notebook principal com as análises e respostas às perguntas de pesquisa
 - `README.md` - Este arquivo com informações sobre o projeto
 
 ## 🛠️ Tecnologias Utilizadas
@@ -50,7 +50,7 @@ O projeto busca responder às seguintes perguntas através de análise estatíst
 1. Clone o repositório
 2. Ative o ambiente virtual
 3. Instale as dependências necessárias
-4. Execute o notebook `Atividade Prática 1.ipynb`
+4. Execute o notebook `practical_task_01.ipynb`
 
 ---
 
